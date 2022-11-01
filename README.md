@@ -1,7 +1,7 @@
-### Hi, my name is Rustam 😼👋
+## Hi, my name is Rustam 😼👋
 
-####I'm backend developer from Ekateriburg
-####19 years old
+#### I'm backend developer from Ekateriburg
+#### 19 years old
 
 
 
