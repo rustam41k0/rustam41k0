@@ -1,5 +1,5 @@
 ## Hi, my name is Rustam 😼👋
-#### I'm python developer from Ekateriburg
+#### I'm (mostly backend) developer from Ekateriburg
 
 
 
