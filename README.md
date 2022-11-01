@@ -1,5 +1,4 @@
-## 👋 my name is Rustam / rustam41k0
-#### I'm backend developer from Ekateriburg
+## Hi 👋 I'm Rustam / rustam41k0
 
 
 
