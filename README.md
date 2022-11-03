@@ -10,6 +10,7 @@
     <a href='https://www.instagram.com/mrbbyface/'>
       <img src='https://img.shields.io/badge/Instagram-e5205b?style=for-the-badge&logo=instagram&logoColor=white' />
     </a>
+    
   </h1>
 </div>
 
@@ -17,7 +18,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=rustam41k0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam41k0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-____
 
 ## Languages and tools:
 
