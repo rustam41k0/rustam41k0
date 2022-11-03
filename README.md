@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/django-022a1a?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Pycharm-6cdf7a?style=for-the-badge&logo=pycharm&logoColor=black)
+![](https://img.shields.io/badge/Pycharm-success?style=for-the-badge&logo=pycharm&logoColor=black)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red)
 ![](https://img.shields.io/badge/-CSS3-0a8bc5?style=for-the-badge&logo=CSS3&logoColor=white)
