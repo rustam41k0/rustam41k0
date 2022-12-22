@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/zCM217yklW7vpSlRIf/giphy.gif" /><br>
   <h1>
     Hey  
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
-    I'm Rustam / rustam41k0 <br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Rustam <br>
     <a href='https://t.me/mrbbyface'>
       <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' />
     </a>
@@ -20,8 +20,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=rustam41k0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam41k0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-<h2 align="center"> Languages and tools: </h2>
+<h2 > Languages and tools: </h2>
 
 ![](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
