@@ -20,7 +20,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=rustam41k0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rustam41k0&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 > Languages and tools: </h2>
+<h2 > My languages and tools: </h2>
 
 ![](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
