@@ -22,8 +22,8 @@
 
 <h2 > My languages and tools: </h2>
 
-![](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/postgres-black.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white)
