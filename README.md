@@ -1,7 +1,7 @@
 ### 👨🏻‍🎓 About me <br />
 👋 Hi, I’m Rustam Sharipov!
 
-👀 I’m mostly interested in Python(and some Go) Backend Developing
+👀 I’m mostly interested in Go/Python Backend Developing
 
 ⚡ Developer with 1 year of commercial experience
 
